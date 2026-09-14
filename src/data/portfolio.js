@@ -165,7 +165,7 @@ export const totalProblemsSolved = 1059;
 export const achievements = [
   {
     title: 'CodeSangam Hackathon Finalist',
-    description: 'Finalist for developing MediAlert, an AI-powered medication tracking application.',
+    description: 'Made it to the top 8 out of 120 teams for developing MediAlert, an AI-powered medication tracking application.',
     icon: 'Trophy',
   },
   {
