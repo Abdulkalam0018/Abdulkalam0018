@@ -25,6 +25,4 @@ I'm an undergraduate Computer Science and Engineering student at MNNIT Allahabad
 <br />
 
 ### 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdulkalam0018&show_icons=true&theme=transparent&hide_border=true" alt="Abdul's GitHub Contributions" />
-</div>
+[![Abdul's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Abdulkalam0018&theme=radical)](https://github.com/DenverCoder1/github-readme-streak-stats)
